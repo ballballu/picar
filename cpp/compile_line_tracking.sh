@@ -1,0 +1,1 @@
+g++ -o line_tracking -O line_tracking.cpp -O driver.cpp -std=c++11 -lpthread
