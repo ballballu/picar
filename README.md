@@ -1,4 +1,4 @@
-# picar_client_C17
+# picar
 
 ### This project is a course project for SJTU Science and Technology Innovation III-F
 
